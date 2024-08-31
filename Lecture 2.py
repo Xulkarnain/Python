@@ -1,15 +1,8 @@
-# WAP to input user’s first name & print its length.
+print("Hello World", 7)
+print(5)
+print("Bye")
+print(17 * 13)
 
-Name = str(input("Enter your name = "));
+#Write a program to print a poem in Python. Choose the poem of your choice and publish your repl
 
-print(len(str(Name)));
-
-# WAP to find the occurrence of ‘$’ in a String.
-
-srt1 = str(input("a = "));
-print(str(srt1));
-
-# WAP to check if a number entered by the user is odd or even.
-
-
-
+print("Twinkle Twinkle little star")
